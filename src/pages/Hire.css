@@ -1,0 +1,16 @@
+/* src/pages/Hire.css */
+.hire {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hire h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .hire p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
